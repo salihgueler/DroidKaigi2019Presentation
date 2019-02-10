@@ -1,10 +1,10 @@
-import 'package:example_flutter/flutter-animations/lib/easinganimationwidget.dart';
-import 'package:example_flutter/flutter-animations/lib/maskinganimationwidget.dart';
-import 'package:example_flutter/flutter-animations/lib/offsetdelayanimation.dart';
-import 'package:example_flutter/flutter-animations/lib/parentinganimation.dart';
-import 'package:example_flutter/flutter-animations/lib/springfreefallinganimation.dart';
-import 'package:example_flutter/flutter-animations/lib/transformationanimationwidget.dart';
-import 'package:example_flutter/flutter-animations/lib/valuechangeanimation.dart';
+import 'package:example_flutter/droidkaigi/flutter-animations/lib/easinganimationwidget.dart';
+import 'package:example_flutter/droidkaigi/flutter-animations/lib/maskinganimationwidget.dart';
+import 'package:example_flutter/droidkaigi/flutter-animations/lib/offsetdelayanimation.dart';
+import 'package:example_flutter/droidkaigi/flutter-animations/lib/parentinganimation.dart';
+import 'package:example_flutter/droidkaigi/flutter-animations/lib/springfreefallinganimation.dart';
+import 'package:example_flutter/droidkaigi/flutter-animations/lib/transformationanimationwidget.dart';
+import 'package:example_flutter/droidkaigi/flutter-animations/lib/valuechangeanimation.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(new MyApp());

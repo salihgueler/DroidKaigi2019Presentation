@@ -1,8 +1,14 @@
-import 'package:example_flutter/styles.dart';
+import 'package:example_flutter/droidkaigi/styles.dart';
 import 'package:flutter/material.dart';
 
+///
+/// Base widget for showing the slide view.
+///
 class BaseSlideWidget extends StatelessWidget {
+
+  /// Main content to be shown on the screen
   Widget mainContentWidget;
+  /// background color of the screen
   Color backgroundColor;
 
   BaseSlideWidget({this.mainContentWidget, this.backgroundColor = mainBackgroundColor});

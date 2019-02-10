@@ -1,4 +1,4 @@
-import 'package:example_flutter/styles.dart';
+import 'package:example_flutter/droidkaigi/styles.dart';
 import 'package:flutter/material.dart';
 
 class IntroSlide extends StatelessWidget {

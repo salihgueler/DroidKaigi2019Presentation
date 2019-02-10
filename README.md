@@ -1,4 +1,6 @@
-#DroidKaigi 2019 - Animations in Flutter presentation
+# DroidKaigi 2019 - Animations in Flutter presentation
+
+[](https://github.com/salihgueler/DroidKaigi2019Presentation/blob/master/presentation.gif)
 
 I created this desktop application to be able to show how Flutter Desktop applications are working. It is directly embedded inside the Flutter Desktop project. You may find the detailed information in the following official documentation from Flutter Team.
 
@@ -6,8 +8,9 @@ This presentation covers core animation concepts from Flutter and how to create 
 
 If something is not clear or if you do not understand something please create an issue or send me a DM over [Twitter](https://twitter.com/salihgueler)
 
-##Important notes to share before the official documentation
+## Important notes to share before the official documentation
 
+- Main project is the [droidkaigi](https://github.com/salihgueler/DroidKaigi2019Presentation/tree/master/example/lib/droidkaigi) folder in the example project's lib folder.  
 - For running on macos, simply run the xcode project in the example project and run it from there. 
 - You may attach the attacher with `$ flutter attach --device-id=flutter-tester --debug-port=<port-number>` command over terminal
 
