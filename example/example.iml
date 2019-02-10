@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/Flutter-UI-Kit/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/Flutter-UI-Kit/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/Flutter-UI-Kit/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/app/lib/tools/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/app/lib/tools/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/app/lib/tools/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/dependencies/Flare-Flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/dependencies/Flare-Flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/dependencies/Flare-Flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/dependencies/Flare-Flutter/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/dependencies/Flare-Flutter/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/dependencies/Flare-Flutter/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/dependencies/Nima-Flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/dependencies/Nima-Flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/HistoryOfEverything/dependencies/Nima-Flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/catalog/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/catalog/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/catalog/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/examples/flutter_gallery/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/examples/flutter_gallery/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/examples/flutter_gallery/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/examples/stocks/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/examples/stocks/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/examples/stocks/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/flutter_gallery/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/flutter_gallery/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/flutter_gallery/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/flutter_ui_challenge_planets_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/flutter_ui_challenge_planets_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/flutter_ui_challenge_planets_app/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>

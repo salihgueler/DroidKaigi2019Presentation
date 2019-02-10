@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/lib/flutter-animations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/lib/flutter-animations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/lib/flutter-animations/ios/.symlinks/plugins/documents_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/lib/flutter-animations/ios/.symlinks/plugins/documents_picker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/lib/flutter-animations/ios/.symlinks/plugins/documents_picker/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/lib/flutter-animations/ios/.symlinks/plugins/documents_picker/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/color_panel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/color_panel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/file_chooser/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/file_chooser/build" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/menubar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/menubar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/archive/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/archive/build" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/args/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/args/build" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/charcode/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/charcode/build" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/collection/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/collection/build" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/convert/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/convert/build" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/crypto/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/crypto/build" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/path/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/path/build" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/typed_data/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/third_party/dart_packages/typed_data/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
