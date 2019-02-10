@@ -1,6 +1,6 @@
 # DroidKaigi 2019 - Animations in Flutter presentation
 
-[](https://github.com/salihgueler/DroidKaigi2019Presentation/blob/master/presentation.gif)
+![Animations in Flutter](https://github.com/salihgueler/DroidKaigi2019Presentation/blob/master/presentation.gif)
 
 I created this desktop application to be able to show how Flutter Desktop applications are working. It is directly embedded inside the Flutter Desktop project. You may find the detailed information in the following official documentation from Flutter Team.
 
